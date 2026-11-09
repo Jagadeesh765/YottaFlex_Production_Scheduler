@@ -1,0 +1,4 @@
+changeover_id,from_product_id,to_product_id,from_machine_type,to_machine_type,changeover_minutes
+CHG001,PROD-000001,PROD-000002,TYPE_A,TYPE_A,15
+CHG002,PROD-000002,PROD-000003,TYPE_A,TYPE_B,30
+CHG003,PROD-000003,PROD-000001,TYPE_B,TYPE_A,20

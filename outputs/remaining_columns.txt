@@ -1,0 +1,9 @@
+machines.csv
+['machine_id', 'machine_name', 'machine_type', 'work_center_id', 'capacity', 'capacity_unit', 'status']
+
+machine_calendar.csv
+['calendar_id', 'machine_id', 'calendar_date', 'shift_start', 'shift_end', 'break_duration', 'available_minutes', 'is_working_day']
+
+inventory_lots.csv
+['lot_id', 'material_id', 'lot_number', 'quantity_received', 'quantity_available', 'received_date', 'available_from', 'expiry_date', 'lot_status']
+
