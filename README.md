@@ -1,4 +1,4 @@
-# YottaFlex Production Scheduler
+# # YottaFlex Production Scheduler
 
 A locally runnable production scheduling prototype built with Python, Pandas, SQLite and Streamlit. It assigns routing operations to eligible active machines, observes machine working calendars, checks demo material availability, accounts for product-to-product changeover rules, and produces CSV reports and a dashboard.
 
