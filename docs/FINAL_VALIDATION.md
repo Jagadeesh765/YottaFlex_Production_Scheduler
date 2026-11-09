@@ -31,5 +31,28 @@ The low scheduling rate is heavily affected by the synthetic demonstration BOM a
 The scheduling results are recorded in this report. Runtime verification on the submission environment is pending due to a Windows Application Control policy blocking the pandas DLL.
 
 The project requires further validation using actual manufacturing BOM, inventory, labor availability, machine capacity, and changeover data before operational use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - Confirm whether due dates are hard constraints or scheduling priorities.
 - Expand and validate changeover matrix coverage.
